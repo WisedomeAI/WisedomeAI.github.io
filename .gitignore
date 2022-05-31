@@ -1,0 +1,12 @@
+.DS_Store
+Gemfile.lock
+
+# Jekyll이 생성한 메타 데이터 무시
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
+# Bundler가 생성한 폴더 무시
+vendor
+.bundle
